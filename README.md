@@ -1,6 +1,7 @@
 # Ailton Santana Reis
 
 Backend-focused Software Engineering student building production-oriented applications with TypeScript, Node.js, PostgreSQL, Docker, automated testing, and clean architecture.
+
 Currently expanding expertise in distributed systems, API design, authentication, RBAC, local-first applications, CI pipelines, and scalable software architecture.
 
 ## Featured Projects
@@ -52,7 +53,7 @@ Danix is a local-first desktop application for real estate investment management
 | Frontend | React • Next.js |
 | Databases | PostgreSQL • SQLite |
 | ORM / Validation | Drizzle ORM • Zod |
-| Testing | Vitest • e2e • Lint • Typecheck |
+| Testing | Vitest • e2e • lint • typecheck |
 | DevOps | Docker • GitHub Actions • pnpm • Electron |
 
 ## What I am improving now
@@ -66,4 +67,4 @@ Danix is a local-first desktop application for real estate investment management
 
 ## Career Target
 
-Seeking backend and software engineering opportunities focused on scalable systems, clean architecture, developer experience, automation, and data-driven applications..
+Seeking backend and software engineering opportunities focused on scalable systems, clean architecture, developer experience, automation, and data-driven applications.
