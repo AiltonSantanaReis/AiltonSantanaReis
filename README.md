@@ -8,6 +8,8 @@ I am currently focused on building production-oriented systems with clean archit
 
 ### DealTrust — Shopping Intelligence Platform
 
+- [DealTrust](https://github.com/AiltonSantanaReis/DealTrust) — Backend-first shopping intelligence platform.
+  
 DealTrust is a backend-oriented platform for price history, product catalog management, trusted offers, alerts, and purchase decision support.
 
 **Technical highlights:**
@@ -27,6 +29,8 @@ DealTrust is a backend-oriented platform for price history, product catalog mana
 
 ### Danix — Offline Desktop Management System
 
+- [Danix](https://github.com/AiltonSantanaReis/Danix) — Offline-first desktop management system.
+  
 Danix is a local-first desktop application for real estate investment management, financial control, invoices, expenses, suppliers, reports, backups, and user security.
 
 **Technical highlights:**
