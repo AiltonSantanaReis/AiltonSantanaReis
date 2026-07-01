@@ -1,8 +1,7 @@
 # Ailton Santana Reis
 
-Backend-focused Software Engineering student building real-world applications with TypeScript, Node.js, PostgreSQL, Docker, automated testing, and clean architecture.
-
-Currently focused on backend systems, API design, authentication, RBAC, local-first applications, CI pipelines, and production-oriented software architecture.
+Backend-focused Software Engineering student building production-oriented applications with TypeScript, Node.js, PostgreSQL, Docker, automated testing, and clean architecture.
+Currently expanding expertise in distributed systems, API design, authentication, RBAC, local-first applications, CI pipelines, and scalable software architecture.
 
 ## Featured Projects
 
@@ -48,13 +47,13 @@ Danix is a local-first desktop application for real estate investment management
 
 | Area | Technologies |
 |---|---|
-| Languages | TypeScript, JavaScript, HTML, CSS |
-| Backend | Node.js, NestJS, Fastify |
-| Frontend | React, Next.js |
-| Databases | PostgreSQL, SQLite |
-| ORM / Validation | Drizzle ORM, Zod |
-| Testing / Quality | Vitest, e2e tests, lint, typecheck, smoke tests |
-| DevOps / Tools | Docker, GitHub Actions, pnpm, Electron |
+| Languages | TypeScript • JavaScript • HTML • CSS |
+| Backend | Node.js • NestJS • Fastify |
+| Frontend | React • Next.js |
+| Databases | PostgreSQL • SQLite |
+| ORM / Validation | Drizzle ORM • Zod |
+| Testing | Vitest • e2e • Lint • Typecheck |
+| DevOps | Docker • GitHub Actions • pnpm • Electron |
 
 ## What I am improving now
 
@@ -67,4 +66,4 @@ Danix is a local-first desktop application for real estate investment management
 
 ## Career Target
 
-I am preparing for backend/software engineering roles where I can work on reliable systems, product-oriented architecture, developer experience, automation, and data-driven applications.
+Seeking backend and software engineering opportunities focused on scalable systems, clean architecture, developer experience, automation, and data-driven applications..
