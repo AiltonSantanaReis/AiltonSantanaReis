@@ -44,13 +44,17 @@ Danix is a local-first desktop application for real estate investment management
 
 ## Tech Stack
 
-**Languages:** TypeScript, JavaScript, HTML, CSS
-**Backend:** Node.js, NestJS, Fastify
-**Frontend:** React, Next.js
-**Databases:** PostgreSQL, SQLite
-**ORM/Validation:** Drizzle ORM, Zod
-**Testing/Quality:** Vitest, e2e tests, lint, typecheck, smoke tests
-**DevOps/Tools:** Docker, GitHub Actions, pnpm, Electron
+## Tech Stack
+
+| Area | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, HTML, CSS |
+| Backend | Node.js, NestJS, Fastify |
+| Frontend | React, Next.js |
+| Databases | PostgreSQL, SQLite |
+| ORM / Validation | Drizzle ORM, Zod |
+| Testing / Quality | Vitest, e2e tests, lint, typecheck, smoke tests |
+| DevOps / Tools | Docker, GitHub Actions, pnpm, Electron |
 
 ## What I am improving now
 
