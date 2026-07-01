@@ -8,7 +8,7 @@ Currently focused on backend systems, API design, authentication, RBAC, local-fi
 
 ### [DealTrust](https://github.com/AiltonSantanaReis/DealTrust) — Shopping Intelligence Platform
 
-Backend-first platform for price history, product catalog management, trusted offers, alerts, authentication, RBAC, PostgreSQL, tests, and CI.
+DealTrust is a backend-oriented platform for price history, product catalog management, trusted offers, alerts, and purchase decision support.
 
 **Technical highlights:**
 
@@ -27,7 +27,7 @@ Backend-first platform for price history, product catalog management, trusted of
 
 ### [Danix](https://github.com/AiltonSantanaReis/Danix) — Offline Desktop Management System
 
-Offline-first Windows desktop application for real estate investment management, local SQLite persistence, financial control, reports, backups, user permissions, and Electron packaging.
+Danix is a local-first desktop application for real estate investment management, financial control, invoices, expenses, suppliers, reports, backups, and user security.
 
 **Technical highlights:**
 
