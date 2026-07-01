@@ -44,8 +44,6 @@ Danix is a local-first desktop application for real estate investment management
 
 ## Tech Stack
 
-## Tech Stack
-
 | Area | Technologies |
 |---|---|
 | Languages | TypeScript, JavaScript, HTML, CSS |
