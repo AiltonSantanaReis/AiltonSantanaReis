@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Ailton Santana Reis — Backend-Focused Software Engineer" width="100%" />
+</p>
+
 # Ailton Santana Reis
 
 Backend-focused Software Engineering student building production-oriented applications with TypeScript, Node.js, PostgreSQL, Docker, automated testing, and clean architecture.
